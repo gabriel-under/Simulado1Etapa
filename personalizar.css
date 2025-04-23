@@ -1,0 +1,61 @@
+table{
+    width: 100%;
+    height: 98vh;
+}
+tr,td{
+   width: 80px;
+   height: 80px;
+}
+.logo{
+    text-align: right;
+    background-color: rgb(199, 134, 199);
+}
+.as{
+    background-color: rgb(180, 142, 180);
+}
+.centerimagem1{
+
+    text-align: center;
+    background-color: #fae849;
+}
+#imagem1{
+    width: 40%;
+    height: 30vh;
+}
+.centerimagem2{
+    vertical-align: top;
+    text-align: center;
+    background-color: #fae849;
+}
+#imagem2{
+    width: 50%;
+    height: 25vh;
+}
+h2{
+    font-size: 15px;
+}
+.texto{
+    background-color: rgb(226, 150, 226);
+}
+.sa{
+   background-color: rgb(199, 81, 38);
+}
+.das{
+    background-color: rgb(199, 134, 199);
+}
+.kas{
+    background-color: rgb(199, 134, 199);
+}
+.mas{
+    background-color: rgb(199, 134, 199);
+}
+.pas{
+    background-color: #fae849;
+    width: 260px;
+}
+.las{
+    background-color: #fae849;
+}
+.ds{
+    background-color: rgb(199, 81, 38);
+}
